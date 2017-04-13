@@ -1,0 +1,196 @@
+/* ==========================================================================
+   Reponsive for phone
+============================================================================= */
+
+
+@media screen and (max-width: 1366px) and (min-width: 1280px) {
+    #carousel-example-generic > a{
+		margin-top: 160px;
+		width: 5%;
+		height: 13%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -22px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+@media screen and (max-width: 1279px) and (min-width: 1130px) {
+    #carousel-example-generic > a{
+		margin-top: 145px;
+		width: 5%;
+		height: 13%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -22px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+
+@media screen and (max-width: 1129px) and (min-width: 1081px) {
+    #carousel-example-generic > a{
+		margin-top: 130px;
+		width: 5%;
+		height: 13%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -22px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+@media screen and (max-width: 1080px) and (min-width: 991px) {
+    #carousel-example-generic > a{
+		margin-top: 120px;
+		width: 5%;
+		height: 13%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -22px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+@media screen and (max-width: 990px) and (min-width: 961px) {
+    #carousel-example-generic > a{
+		margin-top: 100px;
+		width: 5%;
+		height: 13%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -22px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+@media screen and (max-width: 960px) and (min-width: 811px) {
+    #carousel-example-generic > a{
+		margin-top: 100px;
+		width: 6%;
+		height: 16%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -22px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+@media screen and (max-width: 810px) and (min-width: 768px) {
+    #carousel-example-generic > a{
+		margin-top: 100px;
+		width: 6%;
+		height: 16%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -20px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -15px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -15px !important;
+    }
+}
+@media screen and (max-width: 767px) and (min-width: 710px) {
+    #carousel-example-generic > a{
+		margin-top: 80px;
+		width: 6%;
+		height: 16%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -13px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -10px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -10px !important;
+    }
+}
+@media screen and (max-width: 709px) and (min-width: 615px) {
+    #carousel-example-generic > a{
+		margin-top: 70px;
+		width: 10%;
+		height: 26%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -13px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -10px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -10px !important;
+    }
+}
+@media screen and (max-width: 615px) and (min-width: 400px) {
+    #carousel-example-generic > a{
+		margin-top: 44px;
+		width: 10%;
+		height: 26%;
+    }
+
+    #carousel-example-generic > a  > span{
+		margin-top: -13px;
+    }
+
+    .glyphicon-chevron-left {
+    	margin-left: -10px !important;
+    }
+
+    .glyphicon-chevron-right {
+    	margin-right: -10px !important;
+    }
+}
